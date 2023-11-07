@@ -1,4 +1,5 @@
-# Project-Culinary-Cashier-# Menu Management System
+# Project-Culinary-Cashier-
+# Menu Management System
 
 This is a C++ program that manages a menu and bill generation system. It allows you to perform various operations like adding new menu items, viewing the menu list, removing items from the menu, searching for items by name, raising new invoices, searching for items by code, and exiting the program.
 
